@@ -38,6 +38,12 @@ update the .env file with configuration variables
 ./manage.py createsuperuser
 ```
 
+
+### run local server
+```bash
+./manage.py runserver
+```
+
 Open http://localhost:8000 to view it in the browser.
 The page will reload if you make edits.
 You will also see any errors in the console.
